@@ -24,7 +24,7 @@
                     <th class="text-center">Tanggal Peminjaman</th>
                     <th class="text-center">Tanggal Pengembalian</th>
                     <th class="text-center">Status</th>
-                    <th class="text-center">Opsi</th>
+                    <th class="text-center">Opsi</th> 
                   </tr>
                 </thead>
                 <tbody>
